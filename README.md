@@ -10,3 +10,4 @@
 ## GitHub Actions
 ![githubactions](./images/GitHubActions.png)
 * [How to: Create GitHub Action to deploy Azure Web App within Visual Studio](https://vinijmoura.medium.com/how-to-create-github-action-to-deploy-azure-web-app-within-visual-studio-edfad212c2da)
+* [How to: Secrets Mapping on GitHub](https://vinijmoura.medium.com/how-to-secrets-mapping-on-github-fe4147453925)
