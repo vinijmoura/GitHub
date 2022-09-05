@@ -9,6 +9,7 @@
 * [How to: List GitHub default Branch protection rules](https://vinijmoura.medium.com/how-to-list-github-default-branch-protection-rules-a86cc61b0ca1)
 * [How to: Create Dashboard to visualize Branches ahead/behind on GitHub](https://vinijmoura.medium.com/how-to-create-dashboard-to-visualize-branches-ahead-behind-on-github-2bc8d49acdb8)
 * [How to: List user Repositories and respective Forks on GitHub](https://vinijmoura.medium.com/how-to-list-user-repositories-and-respective-forks-on-github-f6243be90b44)
+* [How to: List user Repositories and respective Stargazers on GitHub](https://vinijmoura.medium.com/how-to-list-user-repositories-and-respective-stragzers-on-github-4a3eae98688b)
 
 ## GitHub Actions
 ![githubactions](./images/GitHubActions.png)
