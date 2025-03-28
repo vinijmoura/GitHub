@@ -16,3 +16,7 @@
 * [How to: Create GitHub Action to deploy Azure Web App within Visual Studio](https://vinijmoura.medium.com/how-to-create-github-action-to-deploy-azure-web-app-within-visual-studio-edfad212c2da)
 * [How to: Secrets Mapping on GitHub](https://vinijmoura.medium.com/how-to-secrets-mapping-on-github-fe4147453925)
 * [How to: Variables Mapping on GitHub](https://vinijmoura.medium.com/how-to-variables-mapping-on-github-5bd315b6a6f4)
+
+## GitHub Copilot
+![githubcopilot](./images/github_copilot.png)
+* [How to: Copilot documents YAML files for Azure Pipelines and GitHub Actions](https://vinijmoura.medium.com/how-to-copilot-documents-yamls-on-azure-pipelines-and-github-actions-08cf90161ad5)
